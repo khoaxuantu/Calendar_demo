@@ -8,7 +8,7 @@
     - To compile:<br>
     <code>
         make calendar
-    </code>
+    </code><br>
     - To run:<br>
     <code>
         ./calendar display_calendar_option(year/month)
@@ -18,4 +18,3 @@
 ![](/calendar_example_image/JanToJun.png)
 <br>
 ![](/calendar_example_image/JulToDec.png)
-
