@@ -19,7 +19,7 @@
 - If you choose the <code>month</code> option, you may need to input the month number in the <code>Month (Number)</code> as well
 
 
-- ### Demo
+- ### Example
 ![](/calendar_example_image/JanToJun.png)
 <br>
 ![](/calendar_example_image/JulToDec.png)
