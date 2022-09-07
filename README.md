@@ -8,7 +8,8 @@
     - To compile:<br>
     <code>
         make calendar
-    </code><br>
+    </code><br><br>
+    
     - To run:<br>
     <code>
         ./calendar display_calendar_option(year/month)
