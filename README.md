@@ -17,5 +17,5 @@
 - ### Demo
 ![](/calendar_example_image/JanToJun.png)
 <br>
-![](/calendar_example_image/JulToDec.png.png)
+![](/calendar_example_image/JulToDec.png)
 
