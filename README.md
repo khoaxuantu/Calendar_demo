@@ -14,6 +14,10 @@
     <code>
         ./calendar display_calendar_option(year/month)
     </code><br>
+- When it shows the below command, input a year that you want to show <br>
+    <code>Calendar - </code><br>
+- If you choose the <code>month</code> option, you may need to input the month number in the <code>Month (Number)</code> as well
+
 
 - ### Demo
 ![](/calendar_example_image/JanToJun.png)
