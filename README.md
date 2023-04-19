@@ -6,16 +6,18 @@
 ## Quick Start
 - In the terminal, redirect to the path of the program:
     - To compile:<br>
-    <code>
-        make calendar
-    </code><br><br>
+    ```bash
+    make calendar
+    ```
     
     - To run:<br>
-    <code>
-        ./calendar display_calendar_option(year/month)
-    </code><br>
+    ```bash
+    ./calendar display_calendar_option(year/month)
+    ```
 - When it shows the below command, input a year that you want to show <br>
-    <code>Calendar - </code><br>
+    ```bash
+    Calendar - 
+    ```
 - If you choose the <code>month</code> option, you may need to input the month number in the <code>Month (Number)</code> as well
 
 
